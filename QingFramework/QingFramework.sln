@@ -13,10 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingFramework.Model", "Qing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingFramework.Web.Core", "QingFramework.Web.Core\QingFramework.Web.Core.csproj", "{3A530614-6A1D-4516-8FDB-734665DDC42A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingFramework.Web", "QingFramework.Web\QingFramework.Web.csproj", "{4DA3EF42-D4E1-49AD-901F-4BC5AD421955}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingFramework.API", "QingFramework.API\QingFramework.API.csproj", "{95084DFD-7C87-4521-87FE-5594D47F1D0E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingFramework.Test", "QingFramework.Test\QingFramework.Test.csproj", "{13484634-0C72-46F7-A004-37774B310258}"
 EndProject
 Global
@@ -45,14 +41,6 @@ Global
 		{3A530614-6A1D-4516-8FDB-734665DDC42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A530614-6A1D-4516-8FDB-734665DDC42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A530614-6A1D-4516-8FDB-734665DDC42A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DA3EF42-D4E1-49AD-901F-4BC5AD421955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DA3EF42-D4E1-49AD-901F-4BC5AD421955}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DA3EF42-D4E1-49AD-901F-4BC5AD421955}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DA3EF42-D4E1-49AD-901F-4BC5AD421955}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95084DFD-7C87-4521-87FE-5594D47F1D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95084DFD-7C87-4521-87FE-5594D47F1D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95084DFD-7C87-4521-87FE-5594D47F1D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95084DFD-7C87-4521-87FE-5594D47F1D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13484634-0C72-46F7-A004-37774B310258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13484634-0C72-46F7-A004-37774B310258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13484634-0C72-46F7-A004-37774B310258}.Release|Any CPU.ActiveCfg = Release|Any CPU
